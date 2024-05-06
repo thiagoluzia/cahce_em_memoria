@@ -1,0 +1,1 @@
+# cahce_em_memoria
